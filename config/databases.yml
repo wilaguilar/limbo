@@ -6,6 +6,5 @@ all:
     class: sfDoctrineDatabase
     param:
       dsn:      mysql:host=localhost;dbname=limbo
-      username: root
-      
+      username: root  
       password: 
