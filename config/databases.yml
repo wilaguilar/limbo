@@ -7,4 +7,5 @@ all:
     param:
       dsn:      mysql:host=localhost;dbname=limbo
       username: root
+      
       password: 
